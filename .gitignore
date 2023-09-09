@@ -1,0 +1,11 @@
+/.cache
+/.codelite
+/.ctagsd
+/build-Debug
+/*.worspace
+/*.json
+/Makefile
+/*.clangd
+/*.clang-format
+/*.mk
+/*.project
