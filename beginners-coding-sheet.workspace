@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <CodeLite_Workspace Name="beginners-coding-sheet" Database="" Version="10000">
-  <Project Name="1" Path="1/1.project" Active="No"/>
-  <Project Name="2" Path="2/2.project" Active="No"/>
-  <Project Name="3" Path="3/3.project" Active="No"/>
-  <Project Name="4" Path="4/4.project" Active="No"/>
-  <Project Name="5" Path="5/5.project" Active="Yes"/>
+  <VirtualDirectory Name="BASICS">
+    <Project Name="1" Path="BASICS/1/1.project" Active="Yes"/>
+  </VirtualDirectory>
+  <VirtualDirectory Name="IF_ELSE">
+    <Project Name="1" Path="IF_ELSE/1/1.project" Active="Yes"/>
+  </VirtualDirectory>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug">
       <Environment/>
@@ -13,6 +14,11 @@
       <Project Name="3" ConfigName="Debug"/>
       <Project Name="4" ConfigName="Debug"/>
       <Project Name="5" ConfigName="Debug"/>
+      <Project Name="6" ConfigName="Debug"/>
+      <Project Name="7" ConfigName="Debug"/>
+      <Project Name="8" ConfigName="Debug"/>
+      <Project Name="1" ConfigName="Debug"/>
+      <Project Name="1" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release">
       <Environment/>
@@ -21,6 +27,11 @@
       <Project Name="3" ConfigName="Release"/>
       <Project Name="4" ConfigName="Release"/>
       <Project Name="5" ConfigName="Release"/>
+      <Project Name="6" ConfigName="Release"/>
+      <Project Name="7" ConfigName="Release"/>
+      <Project Name="8" ConfigName="Release"/>
+      <Project Name="1" ConfigName="Release"/>
+      <Project Name="1" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>
