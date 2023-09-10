@@ -1,7 +1,7 @@
-/.cache
-/.codelite
-/.ctagsd
-/build-Debug
+.cache/
+.codelite/
+.ctagsd/
+build-Debug/
 /*.worspace
 /*.json
 /Makefile
